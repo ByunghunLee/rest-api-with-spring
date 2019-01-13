@@ -1,5 +1,5 @@
 package com.toto.rest.springrest.events;
 
-public enum EventStats {
+public enum EventStatus {
     DRAFT, PUBLISHED, BEGAN_ENROLLMENT;
 }
